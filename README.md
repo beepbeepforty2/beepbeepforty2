@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm beepbeepforty2! 🤖
 
-<!--
-**beepbeepforty2/beepbeepforty2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senior Machine Learning Engineer**  
+Passionate about teaching robots new tricks and pushing the boundaries of AI.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ My Top Skills
+- **Python** – My language of choice for ML magic
+- **PyTorch & TensorFlow** – Deep learning, neural nets, and everything in between
+- **Docker** – I containerize everything for reproducibility
+- **LLMs** – Building, fine-tuning, and deploying large language models
+
+---
+
+### 🤖 What Drives Me
+Making robots learn is my thing! Whether it’s reinforcement learning, computer vision, or generative models, I love exploring how machines perceive, act, and improve.
+
+---
+
+<!-- Add your favorite projects here if you want! -->
+
+---
+
+<!-- Add social links here if you want! -->
+
+---
+
+> "The future is learned, not programmed."  
+Let’s build smarter robots together!
